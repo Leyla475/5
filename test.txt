@@ -1,6 +1,6 @@
-hello
-world
+hel
+wor
 how
 are
-you?
-goodbay
+you
+bay
